@@ -1,5 +1,8 @@
 {
     "0x2000000027a":{
-        "ph": 10
+        "Condutividade Salina (EC):": "1.7 mS/cm",
+        "Temperatura:": "24°C",
+        "pH:": "6.2",
+        "Nível de Luz (lux)": "1500 lux"
     }
 }
