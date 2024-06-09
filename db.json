@@ -13,12 +13,7 @@
         "Nível de Luz (lux)": "1200 lux"
     },
 
-    "0x200000001fb":{
-        "Condutividade Salina (EC):": "1.7 mS/cm",
-        "Temperatura:": "24°C",
-        "pH:": "6.2",
-        "Nível de Luz (lux)": "1500 lux"
-    },
+
 
     "0x20000000190":{
         "Condutividade Salina (EC):": "1.6 mS/cm",
@@ -27,26 +22,14 @@
         "Nível de Luz (lux)": "1500 lux"
     },
 
-    "0x200000002c2":{
-        "Condutividade Salina (EC):": "1.5 mS/cm",
-        "Temperatura:": "22°C",
-        "pH:": "6.2",
-        "Nível de Luz (lux)": "1500 lux"
-    },
 
     "0x20000000399":{
         "Condutividade Salina (EC):": "1.5 mS/cm",
         "Temperatura:": "22°C",
         "pH:": "6.2",
         "Nível de Luz (lux)": "1500 lux"
-    },
-
-    "0x200000002fa":{
-        "Condutividade Salina (EC):": "1.4 mS/cm",
-        "Temperatura:": "21°C",
-        "pH:": "6.1",
-        "Nível de Luz (lux)": "1500 lux"
     }
+
 
 
 
