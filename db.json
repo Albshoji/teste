@@ -3,14 +3,16 @@
         "Condutividade Salina (EC):": "1.7 mS/cm",
         "Temperatura:": "24°C",
         "pH:": "6.2",
-        "Nível de Luz (lux)": "1500 lux"
+        "Nível de Luz (lux)": "1500 lux",
+        "Peso total das alfaces:": "10kg"
     },
 
     "0x20000000226":{
         "Condutividade Salina (EC):": "1.5 mS/cm",
         "Temperatura:": "22°C",
         "pH:": "5.8",
-        "Nível de Luz (lux)": "1200 lux"
+        "Nível de Luz (lux)": "1200 lux",
+        "Peso total das alfaces:": "12kg"
     },
 
 
